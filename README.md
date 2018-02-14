@@ -27,4 +27,10 @@ To do this recursively on all subdirectories, you should use find:
         mv ${file} ${file}.xml
     done
 
+## Step 4 : Run the script
+
+Once you are done customising your script, save and exit and run the following command
+
+    ./rename.sh
+
 
